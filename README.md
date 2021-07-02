@@ -29,7 +29,8 @@ Work through a Firebase chat application in the language of your choice!
 Make sure google-services.json file is downloaded and added to android/app folder
 Inside 'build.gradle' file under the 'android/app' folder, add these implementations in the 'dependencies' section:
 
-    //implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    
     // Google Sign In SDK
     implementation 'com.google.android.gms:play-services-auth:19.0.0'
     
