@@ -1,4 +1,4 @@
-# firebase_chat (reupload)
+# Friendly Chat
 ## Getting Started
 This project was developed for android using flutter and firebase. It is an application that requires users to log in and be able to message other users that are registered.
 
@@ -13,7 +13,6 @@ Work through a Firebase chat application in the language of your choice!
 ## 
 
 ## Firebase & Cloud Firestore
-# Friendly Chat
 #### About Firestore
 - Cloud Firestore stores user's unique user id, first name, last name, user name, registration time, and user role.
 - It also stores content of user's message, time of message sent, the user id of who the message is from, and another user id of who the message is to.
