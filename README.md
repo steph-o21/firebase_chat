@@ -1,4 +1,4 @@
-# firebase_chat (reupload)
+# firebase_chat (reupload) in master branch
 ## Getting Started
 This project was developed for android using flutter and firebase. It is an application that requires users to log in and be able to message other users that are registered.
 
